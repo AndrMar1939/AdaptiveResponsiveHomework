@@ -4,7 +4,7 @@ let navBar = document.querySelector(".nav-bar");
 let logoAdaptive = document.querySelector(".logo-adaptive");
 let navItem = document.querySelector(".nav-item");
 
-
+// events
 
 menuBtn.addEventListener("click", function () {
   menuBtn.classList.toggle("active");
