@@ -71,6 +71,14 @@ a {
   
 }
 
+@media only screen
+and (max-width: 1064px) {
+  .container {
+    max-width: 980px;
+  }
+}
+
+
 
 
 
